@@ -11,9 +11,9 @@ Mở mục **[Releases](../../releases/latest)** và chọn một trong các fil
 
 | File | Dùng khi |
 |---|---|
-| `Log(P)-h Free_<phiên bản>_x64-setup.exe` | Bản miễn phí |
-| `Log(P)-h Free_<phiên bản>_x64-offline-setup.exe` | Bản miễn phí cho máy **không có Internet**, có sẵn WebView2 (khoảng 210 MB) |
-| `Log(P)-h Pro_<phiên bản>_x64-setup.exe` | Bản Pro. Cần mã kích hoạt (licence code) do tác giả cấp |
+| `Log.P.-h.Free_<phiên bản>_x64-setup.exe` | Bản miễn phí |
+| `Log.P.-h.Free_<phiên bản>_x64-offline-setup.exe` | Bản miễn phí cho máy **không có Internet**, có sẵn WebView2 (khoảng 210 MB) |
+| `Log.P.-h.Pro_<phiên bản>_x64-setup.exe` | Bản Pro. Cần mã kích hoạt (licence code) do tác giả cấp |
 
 Các file `logph-*.exe` và `latest-*.json` là để chương trình **tự cập nhật**. Bạn không cần tải
 các file này.
